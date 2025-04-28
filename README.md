@@ -70,4 +70,4 @@ client (e.g., Gmail via browser or Thunderbird).
      
 
 ## RESULT:
-Web browser artifacts and email headers were successfully analyzed using Wireshark
+Web browser artifacts and email headers were successfully analyzed using Wireshark.
